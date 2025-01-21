@@ -1,7 +1,7 @@
 const Up = document.getElementById("Up");
 const iconOpen = document.querySelector(".icon-menu");
 const menuOpen = document.querySelector(".menu");
-let removHidden = document.querySelector("#logo-portfolio");
+let removHidden = document.querySelector("#logo-nav");
 //Form
 const contactForm = document.getElementById("contactForm");
 const nameInput = document.getElementById("name");
