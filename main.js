@@ -1,7 +1,7 @@
 const Up = document.getElementById("Up");
 const iconOpen = document.querySelector(".icon-menu");
 const menuOpen = document.querySelector(".menu");
-let removHidden = document.querySelector("#logo-portfoloio");
+let removHidden = document.querySelector("#logo-portfolio");
 //
 // Up Button
 window.addEventListener("scroll", function () {
